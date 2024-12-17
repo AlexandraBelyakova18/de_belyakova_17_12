@@ -1,0 +1,70 @@
+﻿@page
+@model WWWWW.Pages.Services.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Service</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Service.ServiceId" />
+            <div class="form-group">
+                <label asp-for="Service.RequestId" class="control-label"></label>
+                <input asp-for="Service.RequestId" class="form-control" />
+                <span asp-validation-for="Service.RequestId" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Service.Status" /> @Html.DisplayNameFor(model => model.Service.Status)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="Service.EmployeeId" class="control-label"></label>
+                <input asp-for="Service.EmployeeId" class="form-control" />
+                <span asp-validation-for="Service.EmployeeId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Service.EmployeeName" class="control-label"></label>
+                <input asp-for="Service.EmployeeName" class="form-control" />
+                <span asp-validation-for="Service.EmployeeName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Service.IssueDescription" class="control-label"></label>
+                <input asp-for="Service.IssueDescription" class="form-control" />
+                <span asp-validation-for="Service.IssueDescription" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Service.Appliance" class="control-label"></label>
+                <input asp-for="Service.Appliance" class="form-control" />
+                <span asp-validation-for="Service.Appliance" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Service.Cost" class="control-label"></label>
+                <input asp-for="Service.Cost" class="form-control" />
+                <span asp-validation-for="Service.Cost" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Service.RequestDate" class="control-label"></label>
+                <input asp-for="Service.RequestDate" class="form-control" />
+                <span asp-validation-for="Service.RequestDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

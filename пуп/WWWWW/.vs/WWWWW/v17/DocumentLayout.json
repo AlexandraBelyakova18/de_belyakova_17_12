@@ -1,0 +1,801 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Migrations\\20241216223511_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Migrations\\20241216223511_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Employees\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Employees\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Employees\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Employees\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Employees\\Delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Employees\\Delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Employees\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Employees\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Employees\\Details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Employees\\Details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Employees\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Employees\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Employees\\Edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Employees\\Edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Employees\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Employees\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Employees\\Create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Employees\\Create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Employees\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Employees\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Requests\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Requests\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Requests\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Requests\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Requests\\Delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Requests\\Delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Requests\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Requests\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Requests\\Details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Requests\\Details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Requests\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Requests\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Requests\\Edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Requests\\Edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Requests\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Requests\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Requests\\Create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Requests\\Create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Data\\WWWWWContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Data\\WWWWWContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Requests\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Requests\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Services\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Services\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Services\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Services\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Services\\Delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Services\\Delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Services\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Services\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Services\\Details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Services\\Details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Services\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Services\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Services\\Edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Services\\Edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Services\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Services\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Services\\Create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Services\\Create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Services\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Services\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Users\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Users\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Users\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Users\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Users\\Delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Users\\Delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Users\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Users\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Users\\Details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Users\\Details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Users\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Users\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Users\\Edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Users\\Edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Users\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Users\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Users\\Create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Users\\Create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Users\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\Pages\\Users\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\models\\Service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\models\\Service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\models\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\models\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\models\\Request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\models\\Request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WWWWW\\models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WWWWW\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T22:35:53.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241216223511_initial.cs",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Migrations\\20241216223511_initial.cs",
+              "RelativeDocumentMoniker": "WWWWW\\Migrations\\20241216223511_initial.cs",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Migrations\\20241216223511_initial.cs",
+              "RelativeToolTip": "WWWWW\\Migrations\\20241216223511_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:35:11.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Employees\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Employees\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Employees\\Index.cshtml.cs",
+              "RelativeToolTip": "WWWWW\\Pages\\Employees\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:34:19.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Employees\\Index.cshtml",
+              "RelativeToolTip": "WWWWW\\Pages\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T22:34:19.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Program.cs",
+              "RelativeDocumentMoniker": "WWWWW\\Program.cs",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Program.cs",
+              "RelativeToolTip": "WWWWW\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:32:17.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Employees\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Employees\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Employees\\Delete.cshtml.cs",
+              "RelativeToolTip": "WWWWW\\Pages\\Employees\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:34:19.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Employees\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Employees\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Employees\\Delete.cshtml",
+              "RelativeToolTip": "WWWWW\\Pages\\Employees\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T22:34:19.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Employees\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Employees\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Employees\\Details.cshtml.cs",
+              "RelativeToolTip": "WWWWW\\Pages\\Employees\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:34:19.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Employees\\Details.cshtml",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Employees\\Details.cshtml",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Employees\\Details.cshtml",
+              "RelativeToolTip": "WWWWW\\Pages\\Employees\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T22:34:19.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Employees\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Employees\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Employees\\Edit.cshtml.cs",
+              "RelativeToolTip": "WWWWW\\Pages\\Employees\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:34:19.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Employees\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "WWWWW\\Pages\\Employees\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T22:34:18.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Employees\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Employees\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Employees\\Create.cshtml.cs",
+              "RelativeToolTip": "WWWWW\\Pages\\Employees\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:34:18.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Employees\\Create.cshtml",
+              "RelativeToolTip": "WWWWW\\Pages\\Employees\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T22:34:18.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Requests\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Requests\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Requests\\Index.cshtml.cs",
+              "RelativeToolTip": "WWWWW\\Pages\\Requests\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:33:39.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Requests\\Index.cshtml",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Requests\\Index.cshtml",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Requests\\Index.cshtml",
+              "RelativeToolTip": "WWWWW\\Pages\\Requests\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T22:33:39.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Requests\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Requests\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Requests\\Delete.cshtml.cs",
+              "RelativeToolTip": "WWWWW\\Pages\\Requests\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:33:39.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Requests\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Requests\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Requests\\Delete.cshtml",
+              "RelativeToolTip": "WWWWW\\Pages\\Requests\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T22:33:39.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Requests\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Requests\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Requests\\Details.cshtml.cs",
+              "RelativeToolTip": "WWWWW\\Pages\\Requests\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:33:39.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Requests\\Details.cshtml",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Requests\\Details.cshtml",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Requests\\Details.cshtml",
+              "RelativeToolTip": "WWWWW\\Pages\\Requests\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T22:33:39.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Requests\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Requests\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Requests\\Edit.cshtml.cs",
+              "RelativeToolTip": "WWWWW\\Pages\\Requests\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:33:39.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Requests\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Requests\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Requests\\Edit.cshtml",
+              "RelativeToolTip": "WWWWW\\Pages\\Requests\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T22:33:39.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Requests\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Requests\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Requests\\Create.cshtml.cs",
+              "RelativeToolTip": "WWWWW\\Pages\\Requests\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:33:38.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WWWWWContext.cs",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Data\\WWWWWContext.cs",
+              "RelativeDocumentMoniker": "WWWWW\\Data\\WWWWWContext.cs",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Data\\WWWWWContext.cs",
+              "RelativeToolTip": "WWWWW\\Data\\WWWWWContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:32:17.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Requests\\Create.cshtml",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Requests\\Create.cshtml",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Requests\\Create.cshtml",
+              "RelativeToolTip": "WWWWW\\Pages\\Requests\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T22:33:38.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Services\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Services\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Services\\Index.cshtml.cs",
+              "RelativeToolTip": "WWWWW\\Pages\\Services\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:33:05.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Services\\Index.cshtml",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Services\\Index.cshtml",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Services\\Index.cshtml",
+              "RelativeToolTip": "WWWWW\\Pages\\Services\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T22:33:04.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Services\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Services\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Services\\Delete.cshtml.cs",
+              "RelativeToolTip": "WWWWW\\Pages\\Services\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:33:04.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Services\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Services\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Services\\Delete.cshtml",
+              "RelativeToolTip": "WWWWW\\Pages\\Services\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T22:33:04.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Services\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Services\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Services\\Details.cshtml.cs",
+              "RelativeToolTip": "WWWWW\\Pages\\Services\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:33:04.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Services\\Details.cshtml",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Services\\Details.cshtml",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Services\\Details.cshtml",
+              "RelativeToolTip": "WWWWW\\Pages\\Services\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T22:33:04.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Services\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Services\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Services\\Edit.cshtml.cs",
+              "RelativeToolTip": "WWWWW\\Pages\\Services\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:33:04.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Services\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Services\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Services\\Edit.cshtml",
+              "RelativeToolTip": "WWWWW\\Pages\\Services\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T22:33:04.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Services\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Services\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Services\\Create.cshtml.cs",
+              "RelativeToolTip": "WWWWW\\Pages\\Services\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:33:04.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Services\\Create.cshtml",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Services\\Create.cshtml",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Services\\Create.cshtml",
+              "RelativeToolTip": "WWWWW\\Pages\\Services\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T22:33:04.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Users\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Users\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Users\\Index.cshtml.cs",
+              "RelativeToolTip": "WWWWW\\Pages\\Users\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:32:21.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Users\\Index.cshtml",
+              "RelativeToolTip": "WWWWW\\Pages\\Users\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T22:32:21.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Users\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Users\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Users\\Delete.cshtml.cs",
+              "RelativeToolTip": "WWWWW\\Pages\\Users\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:32:20.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Users\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Users\\Delete.cshtml",
+              "RelativeToolTip": "WWWWW\\Pages\\Users\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T22:32:20.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Users\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Users\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Users\\Details.cshtml.cs",
+              "RelativeToolTip": "WWWWW\\Pages\\Users\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:32:20.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Users\\Details.cshtml",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Users\\Details.cshtml",
+              "RelativeToolTip": "WWWWW\\Pages\\Users\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T22:32:20.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Users\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Users\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Users\\Edit.cshtml.cs",
+              "RelativeToolTip": "WWWWW\\Pages\\Users\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:32:20.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Users\\Edit.cshtml",
+              "RelativeToolTip": "WWWWW\\Pages\\Users\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T22:32:19.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Users\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Users\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Users\\Create.cshtml.cs",
+              "RelativeToolTip": "WWWWW\\Pages\\Users\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:32:19.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "WWWWW\\Pages\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\Pages\\Users\\Create.cshtml",
+              "RelativeToolTip": "WWWWW\\Pages\\Users\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T22:32:18.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\models\\Service.cs",
+              "RelativeDocumentMoniker": "WWWWW\\models\\Service.cs",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\models\\Service.cs",
+              "RelativeToolTip": "WWWWW\\models\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:27:31.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\models\\Employee.cs",
+              "RelativeDocumentMoniker": "WWWWW\\models\\Employee.cs",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\models\\Employee.cs",
+              "RelativeToolTip": "WWWWW\\models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:26:43.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\models\\Request.cs",
+              "RelativeDocumentMoniker": "WWWWW\\models\\Request.cs",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\models\\Request.cs",
+              "RelativeToolTip": "WWWWW\\models\\Request.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:26:06.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\models\\User.cs",
+              "RelativeDocumentMoniker": "WWWWW\\models\\User.cs",
+              "ToolTip": "C:\\Users\\79969\\Desktop\\\u043F\u0443\u043F\\WWWWW\\WWWWW\\models\\User.cs",
+              "RelativeToolTip": "WWWWW\\models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:25:38.926Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
